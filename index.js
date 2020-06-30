@@ -2,10 +2,5 @@
 
 /* istanbul ignore file: test would be a mirror of implementation */
 
-import * as replacement from "./replacement";
-import * as stacking from "./stacking";
-
-export {
-	replacement,
-	stacking,
-};
+export { default as replaceIdentifiersAndItems } from "./replaceIdentifiersAndItems";
+export { default as replaceIdentifiersAndItemsAndLevelsAndStacks } from "./replaceIdentifiersAndItemsAndLevelsAndStacks";
