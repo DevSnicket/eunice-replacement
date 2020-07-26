@@ -6,16 +6,15 @@
 	"description": "replaces identifiers, items, levels and/or stacks in Eunice analysis YAML",
 	"dependencies": {},
 	"devDependencies": {
-		"@babel/core": "7.8.4",
-		"@babel/plugin-transform-modules-commonjs": "7.8.3",
-		"@types/jest": "26.0.3",
-		"@types/node": "10.12.12",
-		"cspell": "4.0.21",
-		"eslint": "7.3.1",
-		"eslint-plugin-notice": "0.9.10",
-		"jest": "26.1.0",
-		"minimist": ">=1.2.3",
-		"typescript": "3.7.5"
+		"@babel/core": "^7.8.4",
+		"@babel/plugin-transform-modules-commonjs": "^7.8.3",
+		"@types/jest": "^26.0.3",
+		"@types/node": "^10.12.12",
+		"cspell": "^4.0.21",
+		"eslint": "^7.3.1",
+		"eslint-plugin-notice": "^0.9.10",
+		"jest": "^26.1.0",
+		"typescript": "^3.7.5"
 	},
 	"homepage": "https://github.com/DevSnicket/Eunice#readme",
 	"jest": {
@@ -69,5 +68,5 @@
 		"test": "npx jest",
 		"typescript": "npx tsc -p jsconfig.json"
 	},
-	"version": "14.4.0"
+	"version": "14.5.0"
 }
