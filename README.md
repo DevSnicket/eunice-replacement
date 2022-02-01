@@ -1,3 +1,5 @@
+*This code is now part of the https://github.com/DevSnicket/eunice repository*
+
 # Eunice ![](https://raw.githubusercontent.com/DevSnicket/eunice/master/arrows/default-height.svg?sanitize=true) replacement
 
 [![NPM](https://img.shields.io/npm/v/@devsnicket/eunice-replacement.svg)](https://www.npmjs.com/package/@devsnicket/eunice-replacement
